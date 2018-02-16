@@ -1,1 +1,4 @@
-Construire une application C, permettant d'enregistrer dans un fichier XML les données essentielles d'un salarié, après avoir généré un code barre ( dans le pire des cas, une simple entrée devra être mis en place). Ces fichiers XML sont tous nommés de la façon suivante: id restaurant/MMAA, par exemple 01basti0218.xml
+Construire une application C, permettant d'enregistrer dans un fichier XML les données 
+essentielles d'un salarié, après avoir généré un code barre ( dans le pire des cas, une simple
+ entrée devra être mis en place). Ces fichiers XML sont tous nommés de la façon
+ suivante: id restaurant/MMAA, par exemple 01basti0218.xml
