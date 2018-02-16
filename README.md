@@ -11,6 +11,7 @@ Etape 1:
 
   • mélange de groupes demandés
   • à valider par les professeurs concernés
+  
   [FS/EG]: à chaque rencontre, un état d'avancement avec le travail de chacun doit être réalisé
 
 Etape 2: 
