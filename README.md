@@ -10,6 +10,7 @@ Etape 1:
   GROUPES LIBRES MAIS :
 
   • mélange de groupes demandés
+  
   • à valider par les professeurs concernés
   
   [FS/EG]: à chaque rencontre, un état d'avancement avec le travail de chacun doit être réalisé
@@ -17,15 +18,25 @@ Etape 1:
 Etape 2: 
 
   Documents à déposer sur la plate-forme de gestion de projets:
+  
   • [FS] Diagramme de Gant sur les différentes tâches à réaliser, chiffrage financier de la partie développement
+  
   • [FS] Fixation nom du projet, logo du projet, fourniture chartegraphique avec exemples (écrite et non CSS), maquettedéfinitive de l’application WEB (le plan du site sous une formearborescente), schéma de la base de données de la mission 1 sous une forme MCD ou diagramme de classes
+  
   • [FS] Descriptif fonctionnel détaillé et numéroté de la partieApplication Web
+  
   • [FS] Rendre et présenter les parties Gestionpersonnel/Gestion de fichiers XML, programmées (elles doivent être finies)
+  
   • [EG] Présentation de votre matrice RACI pour la partie réseau
+  
   • [EG] Présentation du diagramme de Gantt pour la partie réseau
+  
   • [EG] Présentation de votre maquette non configurée sur Packet Tracer ou GNS3
+  
   22 mars 2018 (classe 1 et 2 ) 
+  
   • [FS/EG]: à chaque rencontre, un état d'avancement avec le travail de chacun doit être réalisé
+  
 
 Etape 3:
 
