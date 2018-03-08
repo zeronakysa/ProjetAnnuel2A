@@ -3,4 +3,6 @@ project(QRCodeMaker C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(QRCodeMaker main.c)
+add_executable(QRCodeMaker
+        main.c
+        lib/qrcode.c lib/qrcode.h)
