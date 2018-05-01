@@ -1,10 +1,8 @@
 #include <stdio.h>
 #include <gtk-3.0/gtk/gtk.h>
 #include <stdlib.h>
-#include "protolib.h"
-#include "functions.c"
-
-
+#include "protoGtk.h"
+//#include "functions.c"
 
 int main (int argc, char *argv[]) {
     GtkBuilder * builder;
